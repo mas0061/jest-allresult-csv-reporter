@@ -1,0 +1,24 @@
+{
+  "name": "jest-allresult-csv-reporter",
+  "version": "1.0.0",
+  "description": "A Jest plugin. Output all test results to CSV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mas0061/jest-allresult-csv-reporter.git"
+  },
+  "keywords": [
+    "jest",
+    "reporter",
+    "csv"
+  ],
+  "author": "mas0061",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mas0061/jest-allresult-csv-reporter/issues"
+  },
+  "homepage": "https://github.com/mas0061/jest-allresult-csv-reporter#readme"
+}
